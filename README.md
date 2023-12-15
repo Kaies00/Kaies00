@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaies Mabrouk</h1>
-<h3 align="center">A passionate Mobile Application Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🔭 I’m currently working on [Notes App](https://play.google.com/store/apps/details?id=com.kaies.task_and_note&fbclid=IwAR1GAAiiFVl6mrcEITvkQzNmcsU2XfnMgefzFeKVE66IWLmFZ0NXCjFm1ac&pli=1)
 
