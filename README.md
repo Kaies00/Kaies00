@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kaies
 - 👀 I’m interested in Android App developpement
 - 🌱 I’m currently learning Dart/flutter
-- 💞️ I’m looking for job as Android developer
-- 📫 How to reach me  : kaiselmabrouk100@gmail.com  / What'up : 0021653106507 / tel : 0021692038894
+- 💞️ I’m looking for new opportunity
+- 📫 How to reach me  : kaiselmabrouk100@gmail.com  / What'up : 0021692038894 / tel : 0021692038894
 - 
 
 <!---
